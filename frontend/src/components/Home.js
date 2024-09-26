@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import '../App.css'; 
 const Home = () => {
   return (
-    <div className="container">
+    <div className="container-1">
       <h1>Welcome to ProjectPulse</h1>
       <p>Manage your projects and organizations efficiently.</p>
       <div className="link-container">
